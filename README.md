@@ -1,13 +1,8 @@
 # FaceFusion Colab
 Run FaceFusion on Google Colab https://github.com/facefusion/facefusion
-## Leave A Star if This Repo Was Helpful
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7AH1FA)
-<a href="https://trakteer.id/ardha27">
-    <img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" alt="Trakteer" height="35">
-</a>
 
-### Tutorial (Indonesian)
-- 
+## Warning!
+Please make sure you have permission to use someone's face, contributors and the project are not responsible for any permission issues.
 
 ### FaceFusion
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/FaceFusion-Colab/blob/main/FaceFusion_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hexaaagon/FaceFusion-Colab/blob/main/FaceFusion_Colab.ipynb)
